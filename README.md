@@ -1,3 +1,5 @@
+![Conéctame: una app que ayuda a personas mayores a unirse a reuniones de Zoom con un toque](docs/banner.png)
+
 # Conéctame
 
 Conéctame ayuda a personas mayores a unirse a reuniones de Zoom con un toque.
