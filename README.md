@@ -1,4 +1,4 @@
-# Conéctame (ConnectMe)
+# Conéctame
 
 Conéctame ayuda a personas mayores a unirse a reuniones de Zoom con un toque.
 
