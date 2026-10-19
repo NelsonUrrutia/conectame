@@ -36,6 +36,15 @@ Hice Conéctame para un amigo mayor. Mi amigo no siempre tiene a alguien que le 
 sus citas médicas o a otras de sus reuniones sociales. Así que hice esta app para guardar
 todas sus reuniones, pueda unirse con un toque y logre un poco de independencia.
 
+Hoy la app ya está instalada en su teléfono, y con eso cumplió su objetivo. Comparto el código para
+que cualquiera pueda usarla, aprender de ella o adaptarla a quien la necesite.
+
+### ¿Por qué no está en Google Play?
+
+Publicarla requiere una cuenta de desarrollador de pago y un periodo de prueba cerrado con al menos
+12 personas durante 14 días. Como la app ya cumple su propósito, por ahora no la he publicado.
+Puede que lo haga más adelante.
+
 ## Funciones
 
 - **Botones de reunión** grandes, con nombre, color e imagen (cámara, familia, médico, señor de
