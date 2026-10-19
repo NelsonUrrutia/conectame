@@ -9,6 +9,10 @@ y abre Zoom directamente en la reunión.
 
 La app está en español e inglés y sigue el idioma del teléfono.
 
+> [!NOTE]
+> Conéctame no está en Google Play por ahora. Para usarla hay que compilarla e instalarla desde
+> Android Studio
+
 ## Capturas de pantalla
 
 <table>
@@ -25,6 +29,12 @@ La app está en español e inglés y sigue el idioma del teléfono.
 </table>
 
 Las reuniones de las capturas son ejemplos.
+
+## Por qué hice esta app
+
+Hice Conéctame para un amigo mayor. Mi amigo no siempre tiene a alguien que le ayude a conectarse a
+sus citas médicas o a otras de sus reuniones sociales. Así que hice esta app para guardar
+todas sus reuniones, pueda unirse con un toque y logre un poco de independencia.
 
 ## Funciones
 
