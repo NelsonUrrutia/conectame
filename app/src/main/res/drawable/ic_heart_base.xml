@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Heart (loved ones, a partner, a care group): a white heart on the screen. White only, no details. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="56dp"
+    android:height="50dp"
+    android:viewportWidth="725"
+    android:viewportHeight="647">
+    <path
+        android:pathData="M120,28.5H605A92,92 0,0 1,697,120.5V527.5A92,92 0,0 1,605,619.5H120A92,92 0,0 1,28,527.5V120.5A92,92 0,0 1,120,28.5Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="56" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M362.5,505C330,474 182,384 182,266C182,204 228,162 285,162C320,162 348,182 362.5,214C377,182 405,162 440,162C497,162 543,204 543,266C543,384 395,474 362.5,505Z" />
+</vector>

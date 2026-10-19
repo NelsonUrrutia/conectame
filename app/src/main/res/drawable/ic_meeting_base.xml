@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- General meeting: a screen split into 4 people, like a video call. White only, no details. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="56dp"
+    android:height="50dp"
+    android:viewportWidth="725"
+    android:viewportHeight="647">
+    <path
+        android:pathData="M120,28.5H605A92,92 0,0 1,697,120.5V527.5A92,92 0,0 1,605,619.5H120A92,92 0,0 1,28,527.5V120.5A92,92 0,0 1,120,28.5Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="56" />
+    <path
+        android:pathData="M362.5,56V591"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="22" />
+    <path
+        android:pathData="M56,324H669"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="22" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M165.3,158.8A43.7,43.7 0,1 0,252.7,158.8A43.7,43.7 0,1 0,165.3,158.8Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M111.3,313C111.3,244 155.3,225.6 209,225.6C262.7,225.6 306.7,244 306.7,313Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M472.3,158.8A43.7,43.7 0,1 0,559.7,158.8A43.7,43.7 0,1 0,472.3,158.8Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M418.3,313C418.3,244 462.3,225.6 516,225.6C569.7,225.6 613.7,244 613.7,313Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M165.5,437.4A43.5,43.5 0,1 0,252.5,437.4A43.5,43.5 0,1 0,165.5,437.4Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M111.7,591C111.7,522.2 155.5,504 209,504C262.5,504 306.3,522.2 306.3,591Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M472.5,437.4A43.5,43.5 0,1 0,559.5,437.4A43.5,43.5 0,1 0,472.5,437.4Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M418.7,591C418.7,522.2 462.5,504 516,504C569.5,504 613.3,522.2 613.3,591Z" />
+</vector>

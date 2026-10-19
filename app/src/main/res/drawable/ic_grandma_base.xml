@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Grandma on a screen, white parts: frame, hair, face, shoulders. The details go on top (ic_grandma_details). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="56dp"
+    android:height="50dp"
+    android:viewportWidth="725"
+    android:viewportHeight="647">
+    <!-- Same drawing as the app icon (traced at 1254px), cropped to the frame: x 265..990, y 303..950. -->
+    <group
+        android:translateX="-265"
+        android:translateY="-303">
+        <path
+            android:pathData="M385,331.5H870A92,92 0,0 1,962,423.5V830.5A92,92 0,0 1,870,922.5H385A92,92 0,0 1,293,830.5V423.5A92,92 0,0 1,385,331.5Z"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="56" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M493,716C455,705 440,672 442,652C418,630 410,590 432,560C442,546 446,540 445,528C442,482 472,455 512,450C548,402 610,384 657,395C688,416 700,430 714,432C762,432 800,470 800,525C800,537 805,542 812,550C842,578 846,630 812,660C812,690 790,712 760,716Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M540,548C595,548 633,515 657,468C680,512 705,536 727,546L745,615C770,620 781,642 773,670C766,692 753,699 745,692C730,750 690,780 628,780C566,780 524,750 510,692C502,699 489,692 482,670C474,642 486,620 510,615Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M398,877C420,820 470,795 540,779C546,822 580,850 628,850C676,850 710,822 716,779C786,795 838,822 858,877Z" />
+    </group>
+</vector>

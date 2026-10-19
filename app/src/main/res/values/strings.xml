@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">ConnectMe</string>
+
+    <!-- Home -->
+    <string name="home_title">Tap a meeting to join</string>
+    <string name="home_empty">No meetings yet.</string>
+    <string name="tap_to_join">Tap to join</string>
+    <string name="edit_meetings">Meetings</string>
+
+    <!-- Manage -->
+    <string name="close">Close</string>
+    <string name="add_meeting">Add a meeting</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_confirm_title">Delete \"%1$s\"?</string>
+
+    <!-- Edit form -->
+    <string name="new_meeting">New meeting</string>
+    <string name="edit_meeting">Edit meeting</string>
+    <string name="field_title">Button name</string>
+    <string name="field_title_help">For example \"Family call\"</string>
+    <string name="field_link">Zoom link or meeting ID</string>
+    <string name="field_link_error">Paste the Zoom invite link, or type the 9–11 digit meeting ID</string>
+    <string name="field_password">Passcode</string>
+    <string name="field_password_help">Optional if the link already has one</string>
+    <string name="field_display_name">Name to show in the meeting</string>
+    <string name="save">Save meeting</string>
+
+    <!-- Zoom launcher -->
+    <!-- Meeting colors -->
+    <string name="field_color">Button color</string>
+    <string name="preview">Preview</string>
+    <string name="color_green">Green</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_purple">Purple</string>
+    <string name="color_red">Red</string>
+    <string name="color_orange">Orange</string>
+    <string name="color_teal">Teal</string>
+    <string name="color_pink">Pink</string>
+    <string name="color_brown">Brown</string>
+
+    <!-- Meeting pictures -->
+    <string name="field_icon">Button picture</string>
+    <string name="icon_family">Family</string>
+    <string name="icon_doctor">Doctor</string>
+    <string name="icon_heart">Heart</string>
+    <string name="icon_meeting">Meeting</string>
+
+    <!-- Joining a meeting -->
+    <string name="connecting">Opening Zoom for\n%1$s</string>
+    <string name="join_meeting_a11y">Join %1$s meeting</string>
+    <string name="install_zoom">Install Zoom</string>
+    <string name="ok">OK</string>
+    <string name="error_zoom_missing_title">Zoom is not installed</string>
+    <string name="error_zoom_missing_message">To join meetings, this phone needs the Zoom app. Tap \"Install Zoom\" to get it from the Play Store.</string>
+    <string name="error_bad_link_title">This meeting can\'t be opened</string>
+    <string name="error_bad_link_message">The saved Zoom link doesn\'t look right. Ask a family member to check it in \"Meetings\".</string>
+    <string name="field_title_error">Please type a name for the button</string>
+    <string name="edit_a11y">Edit %1$s</string>
+    <string name="delete_a11y">Delete %1$s</string>
+    <string name="preview_a11y">Preview of the %1$s button</string>
+    <string name="delete_confirm_message">This can\'t be undone.</string>
+    <string name="manage_empty">No meetings yet.\nTap \"Add a meeting\" to create the first one.</string>
+
+    <!-- Home-screen shortcut -->
+    <string name="shortcut_checkbox">Add a big button on the phone\'s home screen</string>
+    <string name="shortcut_checkbox_help">One tap on it joins this meeting. The phone will ask you to confirm.</string>
+    <string name="shortcut_turned_off">This shortcut was turned off in ConnectMe</string>
+    <string name="shortcut_meeting_deleted">This meeting was deleted in ConnectMe</string>
+
+    <plurals name="connecting_countdown">
+        <item quantity="one">Starts in %d second</item>
+        <item quantity="other">Starts in %d seconds</item>
+    </plurals>
+
+    <!-- Big home-screen button (widget) -->
+    <string name="widget_label">Meeting button</string>
+    <string name="widget_description">A big button that joins one meeting</string>
+    <string name="widget_preview_title">My meeting</string>
+    <string name="widget_choose">Tap to choose a meeting</string>
+    <string name="widget_choose_title">Which meeting should this button open?</string>
+    <string name="widget_no_meetings">There are no meetings yet. Add one in ConnectMe first.</string>
+    <string name="open_app">Open ConnectMe</string>
+    <string name="icon_photo">Photo</string>
+    <string name="icon_photo_a11y">Choose a photo from the gallery</string>
+    <string name="icon_camera">Camera</string>
+    <string name="icon_suit">Man in a suit</string>
+    <string name="icon_none">No picture</string>
+    <string name="menu">Menu</string>
+    <string name="settings">Settings</string>
+    <string name="theme_title">Screen colors</string>
+    <string name="theme_system">Same as the phone</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="text_size_title">Text size</string>
+    <string name="text_size_default">Default</string>
+    <string name="text_size_large">Large</string>
+    <string name="about_title">About</string>
+    <string name="about_version">%1$s, version %2$s</string>
+    <string name="about_description">ConnectMe helps older people join Zoom meetings with one tap.\nSet up and save a meeting\'s details, then add a shortcut to the phone\'s home screen so the older person only has to press it.</string>
+    <string name="about_privacy">Your meetings are saved on this phone, and the app never sends them over the internet. They\'re only copied when the phone backs itself up or moves your data to a new phone.</string>
+    <string name="about_font">Font: Atkinson Hyperlegible, © 2020 Braille Institute of America, Inc. Used under the SIL Open Font License 1.1.</string>
+    <string name="help_title">Help for caregivers</string>
+    <string name="help_expanded">Expanded</string>
+    <string name="help_collapsed">Collapsed</string>
+    <string name="help_group_setup">Setting up a meeting</string>
+    <string name="help_group_use">Using the button</string>
+    <string name="help_group_care">Upkeep</string>
+    <string name="help_same_link_title">Use a meeting that doesn\'t change</string>
+    <string name="help_same_link_body">The button keeps a single link. If the meeting gets a new link every time, the button stops working. Use a recurring meeting or the organizer\'s personal room (Personal Meeting ID).</string>
+    <string name="help_passcode_title">The passcode is optional</string>
+    <string name="help_passcode_body">If the invite link already includes the passcode (it ends in \"?pwd=…\"), you don\'t need to type it. If you do type one, that one is used.</string>
+    <string name="help_name_title">The display name may not be used</string>
+    <string name="help_name_body">If the person is signed in to a Zoom account, Zoom shows that account\'s name instead of the one typed here. Zoom decides this, not this app.</string>
+    <string name="help_zoom_title">The Zoom app is required</string>
+    <string name="help_zoom_body">Zoom must be installed on the phone. If it isn\'t, ConnectMe says so and shows an \"Install Zoom\" button.</string>
+    <plurals name="help_countdown_title">
+        <item quantity="one">%1$d-second wait</item>
+        <item quantity="other">%1$d-second wait</item>
+    </plurals>
+    <plurals name="help_countdown_body">
+        <item quantity="one">When the button is tapped, the app shows which meeting it will join and waits %1$d second before opening Zoom. That leaves time to tap \"Cancel\" after an accidental tap.</item>
+        <item quantity="other">When the button is tapped, the app shows which meeting it will join and waits %1$d seconds before opening Zoom. That leaves time to tap \"Cancel\" after an accidental tap.</item>
+    </plurals>
+    <string name="help_remove_title">Removing the button from the home screen</string>
+    <string name="help_remove_body">Android doesn\'t let the app remove the button by itself. Touch and hold the button on the home screen and choose Remove. If you delete the meeting or untick \"Add a big button on the phone\'s home screen\", the button turns gray and says \"Tap to choose a meeting\".</string>
+    <string name="help_new_phone_title">Moving to a new phone</string>
+    <string name="help_new_phone_body">Meetings move to the new phone if Google backup or Android\'s data transfer is used. Otherwise they need to be set up again. The home-screen button may also need to be added again.</string>
+</resources>

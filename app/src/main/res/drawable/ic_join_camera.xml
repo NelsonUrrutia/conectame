@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Same camera-with-person shape as the app icon, used on the join buttons. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <group
+        android:translateX="-22.5"
+        android:translateY="-22">
+        <path
+            android:fillColor="#FFFFFF"
+            android:fillType="evenOdd"
+            android:pathData="M32,38H60A7,7 0,0 1,67,45V63A7,7 0,0 1,60,70H32A7,7 0,0 1,25,63V45A7,7 0,0 1,32,38Z M40.5,49A5.5,5.5 0,1 0,51.5,49A5.5,5.5 0,1 0,40.5,49Z M36,70Q36,58 46,58Q56,58 56,70Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M70,47.5L81.5,40.5Q84,39 84,42L84,66Q84,69 81.5,67.5L70,60.5Z" />
+    </group>
+</vector>

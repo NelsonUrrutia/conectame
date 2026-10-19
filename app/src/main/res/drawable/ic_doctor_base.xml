@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Doctor on a screen, white parts. Details on top (ic_doctor_details). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="56dp"
+    android:height="50dp"
+    android:viewportWidth="725"
+    android:viewportHeight="647">
+    <path
+        android:pathData="M120,28.5H605A92,92 0,0 1,697,120.5V527.5A92,92 0,0 1,605,619.5H120A92,92 0,0 1,28,527.5V120.5A92,92 0,0 1,120,28.5Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="56" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M264.5,228A98,98 0,1 0,460.5,228A98,98 0,1 0,264.5,228Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M262,214C258,140 305,104 362.5,104C420,104 467,140 463,214C445,180 410,166 362.5,166C315,166 280,180 262,214Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M147.5,574C147.5,390 244.2,360 362.5,360C480.8,360 577.5,390 577.5,574Z" />
+</vector>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Man in a suit details (face, hair line, jacket lapels, tie). Recolored in code to the button color. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="56dp"
+    android:height="50dp"
+    android:viewportWidth="725"
+    android:viewportHeight="647">
+    <!-- The man is drawn 14% bigger (as big as fits inside the frame). -->
+    <group
+        android:pivotX="362.5"
+        android:pivotY="450.9"
+        android:scaleX="1.14"
+        android:scaleY="1.14">
+        <path
+            android:fillColor="#1B7F3B"
+            android:pathData="M321.1,240A11.4,11.4 0,1 0,343.9,240A11.4,11.4 0,1 0,321.1,240Z" />
+        <path
+            android:fillColor="#1B7F3B"
+            android:pathData="M381.1,240A11.4,11.4 0,1 0,403.9,240A11.4,11.4 0,1 0,381.1,240Z" />
+        <path
+            android:pathData="M328.9,276Q362.5,304 396.1,276"
+            android:strokeColor="#1B7F3B"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeWidth="15.6" />
+        <path
+            android:pathData="M264.5,228A98,98 0,1 0,460.5,228A98,98 0,1 0,264.5,228Z"
+            android:strokeColor="#1B7F3B"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeWidth="13" />
+        <path
+            android:pathData="M262,222C274,204 296,192 318,186C352,200 404,196 424,176C440,184 452,196 462,218"
+            android:strokeColor="#1B7F3B"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeWidth="13" />
+        <path
+            android:pathData="M296,370L350,568"
+            android:strokeColor="#1B7F3B"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeWidth="14" />
+        <path
+            android:pathData="M429,370L375,568"
+            android:strokeColor="#1B7F3B"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeWidth="14" />
+        <path
+            android:fillColor="#1B7F3B"
+            android:pathData="M346,382H379L372,410H353Z M353,410H372L386,520L362.5,548L339,520Z" />
+    </group>
+</vector>

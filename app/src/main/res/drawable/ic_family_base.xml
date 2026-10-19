@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Family on a screen, white parts. Details on top (ic_family_details). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="56dp"
+    android:height="50dp"
+    android:viewportWidth="725"
+    android:viewportHeight="647">
+    <path
+        android:pathData="M120,28.5H605A92,92 0,0 1,697,120.5V527.5A92,92 0,0 1,605,619.5H120A92,92 0,0 1,28,527.5V120.5A92,92 0,0 1,120,28.5Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="56" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M140,196A82,82 0,1 0,304,196A82,82 0,1 0,140,196Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M104,574C104,352.7 157.1,300 222,300C286.9,300 340,352.7 340,574Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M421,196A82,82 0,1 0,585,196A82,82 0,1 0,421,196Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M385,574C385,352.7 438.1,300 503,300C567.9,300 621,352.7 621,574Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M408,226C392,134 442,98 503,98C564,98 614,134 598,226C590,262 574,274 562,270C568,206 546,178 503,176C460,178 438,206 444,270C432,274 416,262 408,226Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M298.5,322A64,64 0,1 0,426.5,322A64,64 0,1 0,298.5,322Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M266.5,574C266.5,440 309.7,408 362.5,408C415.3,408 458.5,440 458.5,574Z" />
+</vector>

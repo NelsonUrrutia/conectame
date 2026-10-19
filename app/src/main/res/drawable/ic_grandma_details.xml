@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Grandma details (face outline, eyebrows, eyes, smile, smile lines). Recolored in code to the
+     button's background color so they look cut out of the white; green here for the widget preview. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="56dp"
+    android:height="50dp"
+    android:viewportWidth="725"
+    android:viewportHeight="647">
+    <!-- Same drawing as the app icon (traced at 1254px), cropped to the frame: x 265..990, y 303..950. -->
+    <group
+        android:translateX="-265"
+        android:translateY="-303">
+        <path
+            android:pathData="M540,548C595,548 633,515 657,468C680,512 705,536 727,546L745,615C770,620 781,642 773,670C766,692 753,699 745,692C730,750 690,780 628,780C566,780 524,750 510,692C502,699 489,692 482,670C474,642 486,620 510,615Z"
+            android:strokeColor="#1B7F3B"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeWidth="13" />
+        <path
+            android:pathData="M543,592Q560,574 580,582"
+            android:strokeColor="#1B7F3B"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeWidth="14" />
+        <path
+            android:pathData="M678,580Q697,574 713,594"
+            android:strokeColor="#1B7F3B"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeWidth="14" />
+        <path
+            android:pathData="M540,643Q565,612 591,643"
+            android:strokeColor="#1B7F3B"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeWidth="14" />
+        <path
+            android:pathData="M662,643Q687,612 713,643"
+            android:strokeColor="#1B7F3B"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeWidth="14" />
+        <path
+            android:pathData="M553,722Q556,702 567,693"
+            android:strokeColor="#1B7F3B"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeWidth="14" />
+        <path
+            android:pathData="M690,693Q701,702 703,722"
+            android:strokeColor="#1B7F3B"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeWidth="14" />
+        <path
+            android:pathData="M588,706Q628,738 668,705"
+            android:strokeColor="#1B7F3B"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeWidth="15" />
+    </group>
+</vector>

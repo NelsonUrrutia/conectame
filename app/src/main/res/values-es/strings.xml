@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Conéctame</string>
+
+    <!-- Inicio -->
+    <string name="home_title">Toque una reunión para unirse</string>
+    <string name="home_empty">Todavía no hay reuniones.</string>
+    <string name="tap_to_join">Toque para unirse</string>
+    <string name="edit_meetings">Reuniones</string>
+
+    <!-- Administrar -->
+    <string name="close">Cerrar</string>
+    <string name="add_meeting">Agregar una reunión</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete_confirm_title">¿Eliminar \"%1$s\"?</string>
+
+    <!-- Formulario -->
+    <string name="new_meeting">Nueva reunión</string>
+    <string name="edit_meeting">Editar reunión</string>
+    <string name="field_title">Nombre del botón</string>
+    <string name="field_title_help">Por ejemplo, \"Llamada familiar\"</string>
+    <string name="field_link">Enlace de Zoom o ID de reunión</string>
+    <string name="field_link_error">Pegue el enlace de invitación de Zoom o escriba el ID de reunión de 9 a 11 dígitos</string>
+    <string name="field_password">Código de acceso</string>
+    <string name="field_password_help">Opcional si el enlace ya lo incluye</string>
+    <string name="field_display_name">Nombre que se mostrará en la reunión</string>
+    <string name="save">Guardar reunión</string>
+
+    <!-- Zoom -->
+    <!-- Colores de reunión -->
+    <string name="field_color">Color del botón</string>
+    <string name="preview">Vista previa</string>
+    <string name="color_green">Verde</string>
+    <string name="color_blue">Azul</string>
+    <string name="color_purple">Morado</string>
+    <string name="color_red">Rojo</string>
+    <string name="color_orange">Naranja</string>
+    <string name="color_teal">Verde azulado</string>
+    <string name="color_pink">Rosa</string>
+    <string name="color_brown">Café</string>
+
+    <!-- Imágenes de las reuniones -->
+    <string name="field_icon">Imagen del botón</string>
+    <string name="icon_family">Familia</string>
+    <string name="icon_doctor">Médico</string>
+    <string name="icon_heart">Corazón</string>
+    <string name="icon_meeting">Reunión</string>
+
+    <!-- Unirse a una reunión -->
+    <string name="connecting">Abriendo Zoom para\n%1$s</string>
+    <string name="join_meeting_a11y">Unirse a la reunión %1$s</string>
+    <string name="install_zoom">Instalar Zoom</string>
+    <string name="ok">Aceptar</string>
+    <string name="error_zoom_missing_title">Zoom no está instalado</string>
+    <string name="error_zoom_missing_message">Para unirse a reuniones, este teléfono necesita la aplicación Zoom. Toque \"Instalar Zoom\" para descargarla de Play Store.</string>
+    <string name="error_bad_link_title">No se puede abrir esta reunión</string>
+    <string name="error_bad_link_message">El enlace de Zoom guardado no parece correcto. Pida a un familiar que lo revise en \"Reuniones\".</string>
+    <string name="field_title_error">Escriba un nombre para el botón</string>
+    <string name="edit_a11y">Editar %1$s</string>
+    <string name="delete_a11y">Eliminar %1$s</string>
+    <string name="preview_a11y">Vista previa del botón %1$s</string>
+    <string name="delete_confirm_message">Esta acción no se puede deshacer.</string>
+    <string name="manage_empty">Todavía no hay reuniones.\nToque \"Agregar una reunión\" para crear la primera.</string>
+
+    <!-- Acceso directo en la pantalla de inicio -->
+    <string name="shortcut_checkbox">Agregar un botón grande en la pantalla de inicio</string>
+    <string name="shortcut_checkbox_help">Con un toque se une a esta reunión. El teléfono le pedirá confirmar.</string>
+    <string name="shortcut_turned_off">Este acceso directo se desactivó en Conéctame</string>
+    <string name="shortcut_meeting_deleted">Esta reunión se eliminó en Conéctame</string>
+
+    <plurals name="connecting_countdown">
+        <item quantity="one">Comienza en %d segundo</item>
+        <item quantity="many">Comienza en %d segundos</item>
+        <item quantity="other">Comienza en %d segundos</item>
+    </plurals>
+
+    <!-- Botón grande en la pantalla de inicio (widget) -->
+    <string name="widget_label">Botón de reunión</string>
+    <string name="widget_description">Un botón grande que se une a una reunión</string>
+    <string name="widget_preview_title">Mi reunión</string>
+    <string name="widget_choose">Toque para elegir una reunión</string>
+    <string name="widget_choose_title">¿Qué reunión debe abrir este botón?</string>
+    <string name="widget_no_meetings">Todavía no hay reuniones. Primero agregue una en Conéctame.</string>
+    <string name="open_app">Abrir Conéctame</string>
+    <string name="icon_photo">Foto</string>
+    <string name="icon_photo_a11y">Elegir una foto de la galería</string>
+    <string name="icon_camera">Cámara</string>
+    <string name="icon_suit">Señor de traje</string>
+    <string name="icon_none">Sin imagen</string>
+    <string name="menu">Menú</string>
+    <string name="settings">Configuración</string>
+    <string name="theme_title">Colores de la pantalla</string>
+    <string name="theme_system">Igual que el teléfono</string>
+    <string name="theme_light">Claro</string>
+    <string name="theme_dark">Oscuro</string>
+    <string name="text_size_title">Tamaño del texto</string>
+    <string name="text_size_default">Normal</string>
+    <string name="text_size_large">Grande</string>
+    <string name="about_title">Acerca de</string>
+    <string name="about_version">%1$s, versión %2$s</string>
+    <string name="about_description">Conéctame ayuda a personas mayores a unirse a reuniones de Zoom con un toque.\nConfigure y guarde los datos de una reunión, y agregue un acceso rápido en la pantalla del teléfono para que la persona mayor solo tenga que presionarlo.</string>
+    <string name="about_privacy">Sus reuniones se guardan en este teléfono y la aplicación nunca las envía por internet. Solo se copian cuando el teléfono hace una copia de seguridad o pasa sus datos a un teléfono nuevo.</string>
+    <string name="about_font">Letra: Atkinson Hyperlegible, © 2020 Braille Institute of America, Inc. Se usa bajo la licencia SIL Open Font License 1.1.</string>
+    <string name="help_title">Ayuda para el cuidador</string>
+    <string name="help_expanded">Abierto</string>
+    <string name="help_collapsed">Cerrado</string>
+    <string name="help_group_setup">Al configurar una reunión</string>
+    <string name="help_group_use">Al usar el botón</string>
+    <string name="help_group_care">Mantenimiento</string>
+    <string name="help_same_link_title">Use una reunión que no cambie</string>
+    <string name="help_same_link_body">El botón guarda un solo enlace. Si la reunión cambia de enlace cada vez, el botón deja de funcionar. Use una reunión periódica o la sala personal (ID de reunión personal) de quien organiza.</string>
+    <string name="help_passcode_title">El código de acceso es opcional</string>
+    <string name="help_passcode_body">Si el enlace de invitación ya incluye el código (termina en \"?pwd=…\"), no es necesario escribirlo. Si lo escribe, se usa el que escribió.</string>
+    <string name="help_name_title">El nombre que se mostrará puede no aplicarse</string>
+    <string name="help_name_body">Si la persona inició sesión en una cuenta de Zoom, Zoom muestra el nombre de esa cuenta y no el que se escribió aquí. Esto lo decide Zoom, no esta aplicación.</string>
+    <string name="help_zoom_title">La aplicación de Zoom es requerida</string>
+    <string name="help_zoom_body">Zoom debe estar instalado en el teléfono. Si no lo está, Conéctame lo avisa y muestra el botón \"Instalar Zoom\".</string>
+    <plurals name="help_countdown_title">
+        <item quantity="one">%1$d segundo de espera</item>
+        <item quantity="many">%1$d segundos de espera</item>
+        <item quantity="other">%1$d segundos de espera</item>
+    </plurals>
+    <plurals name="help_countdown_body">
+        <item quantity="one">Al tocar el botón, la aplicación muestra a qué reunión va a entrar y espera %1$d segundo antes de abrir Zoom. Así hay tiempo de tocar \"Cancelar\" si fue un toque por error.</item>
+        <item quantity="many">Al tocar el botón, la aplicación muestra a qué reunión va a entrar y espera %1$d segundos antes de abrir Zoom. Así hay tiempo de tocar \"Cancelar\" si fue un toque por error.</item>
+        <item quantity="other">Al tocar el botón, la aplicación muestra a qué reunión va a entrar y espera %1$d segundos antes de abrir Zoom. Así hay tiempo de tocar \"Cancelar\" si fue un toque por error.</item>
+    </plurals>
+    <string name="help_remove_title">Cómo quitar el botón de la pantalla de inicio</string>
+    <string name="help_remove_body">Android no deja que la aplicación quite el botón por sí sola. Mantenga presionado el botón en la pantalla de inicio y elija Quitar o Eliminar. Si borra la reunión o desmarca \"Agregar un botón grande en la pantalla de inicio\", el botón queda en gris y dice \"Toque para elegir una reunión\".</string>
+    <string name="help_new_phone_title">Al cambiar de teléfono</string>
+    <string name="help_new_phone_body">Las reuniones pasan al teléfono nuevo si se usa la copia de seguridad de Google o la transferencia de datos de Android. Si no, hay que volver a crearlas. Puede que también haya que volver a agregar el botón de la pantalla de inicio.</string>
+</resources>

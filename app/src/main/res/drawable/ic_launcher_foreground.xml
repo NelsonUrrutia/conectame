@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- App icon: a smiling grandma on a video screen (white on orange). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Traced in the reference image's 1254px coordinates, scaled to the 108dp icon canvas:
+         0.0772 = 56dp frame width / 725px; translate centers the frame on (54, 54). -->
+    <group
+        android:scaleX="0.0772"
+        android:scaleY="0.0772"
+        android:translateX="5.56"
+        android:translateY="5.63">
+        <!-- Screen frame -->
+        <path
+            android:pathData="M385,331.5H870A92,92 0,0 1,962,423.5V830.5A92,92 0,0 1,870,922.5H385A92,92 0,0 1,293,830.5V423.5A92,92 0,0 1,385,331.5Z"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="56" />
+        <!-- Hair -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M493,716C455,705 440,672 442,652C418,630 410,590 432,560C442,546 446,540 445,528C442,482 472,455 512,450C548,402 610,384 657,395C688,416 700,430 714,432C762,432 800,470 800,525C800,537 805,542 812,550C842,578 846,630 812,660C812,690 790,712 760,716Z" />
+        <!-- Face and ears; the orange outline separates them from the hair -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M540,548C595,548 633,515 657,468C680,512 705,536 727,546L745,615C770,620 781,642 773,670C766,692 753,699 745,692C730,750 690,780 628,780C566,780 524,750 510,692C502,699 489,692 482,670C474,642 486,620 510,615Z"
+            android:strokeColor="#D84315"
+            android:strokeLineJoin="round"
+            android:strokeWidth="13" />
+        <!-- Shoulders -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M398,877C420,820 470,795 540,779C546,822 580,850 628,850C676,850 710,822 716,779C786,795 838,822 858,877Z" />
+        <!-- Eyebrows, happy closed eyes, smile and smile lines -->
+        <path
+            android:pathData="M543,592Q560,574 580,582"
+            android:strokeColor="#D84315"
+            android:strokeWidth="14"
+            android:strokeLineCap="round" />
+        <path
+            android:pathData="M678,580Q697,574 713,594"
+            android:strokeColor="#D84315"
+            android:strokeWidth="14"
+            android:strokeLineCap="round" />
+        <path
+            android:pathData="M540,643Q565,612 591,643"
+            android:strokeColor="#D84315"
+            android:strokeWidth="14"
+            android:strokeLineCap="round" />
+        <path
+            android:pathData="M662,643Q687,612 713,643"
+            android:strokeColor="#D84315"
+            android:strokeWidth="14"
+            android:strokeLineCap="round" />
+        <path
+            android:pathData="M588,706Q628,738 668,705"
+            android:strokeColor="#D84315"
+            android:strokeWidth="15"
+            android:strokeLineCap="round" />
+        <path
+            android:pathData="M553,722Q556,702 567,693"
+            android:strokeColor="#D84315"
+            android:strokeWidth="14"
+            android:strokeLineCap="round" />
+        <path
+            android:pathData="M690,693Q701,702 703,722"
+            android:strokeColor="#D84315"
+            android:strokeWidth="14"
+            android:strokeLineCap="round" />
+    </group>
+</vector>

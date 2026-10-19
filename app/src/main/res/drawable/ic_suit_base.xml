@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Man in a suit on a screen, white parts. Details on top (ic_suit_details). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="56dp"
+    android:height="50dp"
+    android:viewportWidth="725"
+    android:viewportHeight="647">
+    <path
+        android:pathData="M120,28.5H605A92,92 0,0 1,697,120.5V527.5A92,92 0,0 1,605,619.5H120A92,92 0,0 1,28,527.5V120.5A92,92 0,0 1,120,28.5Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="56" />
+    <!-- The man is drawn 14% bigger (as big as fits inside the frame). -->
+    <group
+        android:pivotX="362.5"
+        android:pivotY="450.9"
+        android:scaleX="1.14"
+        android:scaleY="1.14">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M264.5,228A98,98 0,1 0,460.5,228A98,98 0,1 0,264.5,228Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M262,222C254,150 300,108 365,108C428,108 470,148 462,218C452,196 440,184 424,176C404,196 352,200 318,186C296,192 274,204 262,222Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M147.5,574C147.5,390 244.2,360 362.5,360C480.8,360 577.5,390 577.5,574Z" />
+    </group>
+</vector>
